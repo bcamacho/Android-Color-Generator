@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_clear" android:title="@string/action_clear"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_reset_color_count" android:title="@string/action_reset_color_count"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_set_color" android:title="@string/action_set_color"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_set_random" android:title="@string/action_set_random"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_set_color_display_count" android:title="@string/action_set_color_display_count"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>

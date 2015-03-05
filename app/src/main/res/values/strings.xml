@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Color Generator</string>
+
+    <string name="welcome_intro">Welcome\nWe are going to use layout transitions in this demo</string>
+    <string name="action_clear">Clear Screen</string>
+    <string name="action_reset_color_count">Reset Color Count</string>
+    <string name="action_set_color">Set Color Code</string>
+    <string name="action_set_random">Random Color Generator</string>
+    <string name="action_set_color_display_count">Amount of Colors to Display</string>
+    <string name="add_button">Add</string>
+    <string name="remove_button">Remove</string>
+    <string name="pause_button">Pause</string>
+</resources>
